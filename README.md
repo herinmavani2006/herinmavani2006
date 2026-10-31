@@ -34,5 +34,19 @@
 
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
 
+---
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herinmavani2006&show_icons=true&theme=tokyonight)
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=herinmavani2006&theme=tokyonight)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herinmavani2006&layout=compact&theme=tokyonight)
+
 
 
