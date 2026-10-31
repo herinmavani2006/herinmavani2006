@@ -13,11 +13,11 @@
 
 ### 🛠️ Skills & Technologies
 
-- HTML
-- CSS
-- Python
-- Git & GitHub
-- EXPERT IN PROMPT AND AI CODING
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,python,git,github,vscode" />
+</p>
+
+
 
 ### 📌 My Goals
 
@@ -33,4 +33,6 @@
 ---
 
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+
+
 
